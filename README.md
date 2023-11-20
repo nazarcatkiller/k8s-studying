@@ -5,7 +5,7 @@
 Підготовка середовища:
 1. Встановлюю minikube через Snap Store. Так само для зручності встановлюю k9s.  
 2. В в VScode підключаю плагіни для Go, Python, Docker.
-3. Реєструю і налаштовую доступ з робочого комп'ютера для сервісів [GitHub] (https://github.com/) i [Docker Hub] (https://hub.docker.com/)
+3. Реєструю і налаштовую доступ з робочого комп'ютера для сервісів [GitHub](https://github.com/) i [Docker Hub](https://hub.docker.com/)
 4. Встановлюю компілятор Go:  
 
 ```bash
